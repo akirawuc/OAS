@@ -3395,7 +3395,7 @@ paths:
       tags:
         - Frame
       summary: Retrieve analytics for the frame
-      description: Retrieve analytics for total-interactors, interactors, nteractions-per-cast and input-text.
+      description: Retrieve analytics for total-interactors, interactors, interactions-per-cast and input-text.
       externalDocs:
         url: https://docs.neynar.com/reference/validate-frame-analytics
       operationId: validate-frame-analytics
